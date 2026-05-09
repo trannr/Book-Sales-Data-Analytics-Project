@@ -81,3 +81,8 @@ Lower-priced books account for the majority of total revenue, showing that volum
 ### Pricing Analysis Dashboard
 ![Pricing Analysis](Tableau/Pricing%20Analysis%20Dashboard.png)  
 [View Interactive Dashboard](https://public.tableau.com/app/profile/nancy.tran1428/viz/PricingAnalysisDashboard/BookPerformanceDashboard2?publish=yes)
+
+
+## SQL Analysis
+
+The SQL queries used to support this analysis can be found in the SQL Queries folder. These queries include data aggregation, pricing segmentation, and performance comparisons used to generate the insights shown in the dashboards.
