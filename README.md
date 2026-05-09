@@ -17,6 +17,27 @@ Dataset: https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings
 6. Identify patterns between price, demand, and overall revenue.
 
 
+## Business Questions & Key Findings
+
+**How does genre impact revenue and engagement?**  
+Fiction dominates both total revenue and reader engagement, driven by a significantly larger number of titles and higher overall demand.
+
+**Do higher-rated books actually sell more?**  
+Higher ratings show only a small increase in average sales, suggesting ratings alone are not a strong driver of performance.
+
+**What drives top-performing books?**  
+Some of the highest-selling books do not have the highest ratings, indicating that factors like author popularity and market demand play a larger role than perceived quality.
+
+**Are there high-quality books that underperform?**  
+Yes, several highly rated books generate low sales, showing that strong reviews do not guarantee commercial success.
+
+**How does pricing affect sales performance?**  
+Higher-priced books generate more revenue per book, but they are very limited in number.
+
+**Which pricing tier drives the most revenue overall?**  
+Lower-priced books account for the majority of total revenue, showing that volume matters more than price in overall performance.
+
+
 ## Tools & Skills Used  
 
 **SQL (MySQL)**  
