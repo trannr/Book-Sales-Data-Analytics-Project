@@ -1,6 +1,6 @@
-# Book-Sales-Data-Analytics-Project
+# Book-Sales-Performance-Analysis
 
-This project is an end-to-end book sales analysis using SQL and Tableau. Since reading has always been a passion of mine, I chose this dataset to better understand how books perform beyond just ratings and popularity. I wanted to look at it from a data perspective and see how genre, pricing, and customer perception actually connect to sales outcomes.
+This project is an end-to-end book sales data analysis using SQL and Tableau. Since reading has always been a passion of mine, I chose this dataset to better understand how books perform beyond just ratings and popularity. I wanted to look at it from a data perspective and see how genre, pricing, and customer perception actually connect to sales outcomes.
 
 The analysis focuses on how these factors influence revenue and performance. The dashboards highlight patterns such as fiction generating the most revenue, higher ratings not always leading to higher sales, and lower-priced books driving the majority of total revenue.
 
